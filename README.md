@@ -2,8 +2,7 @@
 
 ## Student Information
 
-Name: Mernel Velasquez
-
+Name: Junio, Raiza V.
 Course: BSIT - WMT 3-1
 
 Subject: ELECTIVE 1
